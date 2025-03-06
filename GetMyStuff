@@ -1,0 +1,11 @@
+id -u
+
+id -g
+
+id -Gn
+
+echo $PATH
+
+echo $HOME
+
+echo $SHELL
